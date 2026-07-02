@@ -3,7 +3,7 @@
     "version": "ZX_» - Pro",
     "versionCode": "27001",
     "link": "https://sourceforge.net/projects/magisk/files/Magisk%20Delta%20%28Kitsune%20Mask%29/Magisk%20Delta%20Kitsune%2027.001%20Canary.apk/download",
-    "note": "https://onfix.cn/course/4720"
+    "note": "https://raw.githubusercontent.com/billyjackdaniel268/magisk-freeze-channel/main/note.md"
   },
   "stub": {
     "versionCode": "0",
